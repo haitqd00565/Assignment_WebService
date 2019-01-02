@@ -1,0 +1,11 @@
+C:\Users\QUANG HAI\source\WebService\Assignment_WebService\Assignment_WebService\bin\Assignment_WebService.dll.config
+C:\Users\QUANG HAI\source\WebService\Assignment_WebService\Assignment_WebService\bin\Assignment_WebService.dll
+C:\Users\QUANG HAI\source\WebService\Assignment_WebService\Assignment_WebService\bin\Assignment_WebService.pdb
+C:\Users\QUANG HAI\source\WebService\Assignment_WebService\Assignment_WebService\bin\EntityFramework.dll
+C:\Users\QUANG HAI\source\WebService\Assignment_WebService\Assignment_WebService\bin\EntityFramework.SqlServer.dll
+C:\Users\QUANG HAI\source\WebService\Assignment_WebService\Assignment_WebService\bin\EntityFramework.xml
+C:\Users\QUANG HAI\source\WebService\Assignment_WebService\Assignment_WebService\bin\EntityFramework.SqlServer.xml
+C:\Users\QUANG HAI\source\WebService\Assignment_WebService\Assignment_WebService\obj\Debug\Assignment_WebService.csproj.CoreCompileInputs.cache
+C:\Users\QUANG HAI\source\WebService\Assignment_WebService\Assignment_WebService\obj\Debug\Assignment_WebService.csproj.CopyComplete
+C:\Users\QUANG HAI\source\WebService\Assignment_WebService\Assignment_WebService\obj\Debug\Assignment_WebService.dll
+C:\Users\QUANG HAI\source\WebService\Assignment_WebService\Assignment_WebService\obj\Debug\Assignment_WebService.pdb
